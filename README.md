@@ -15,6 +15,7 @@ Blacknurse apparently makes the CPU hot on:
 *  Fortinet v5.4.1 - One CPU consumed
 *  Fortigate units 60c and 100D (even with drop ICMP on)
 *  SonicWall
+
 Maybe more
 See [blacknurse.dk][ref-2] for the full list and updates.
 
