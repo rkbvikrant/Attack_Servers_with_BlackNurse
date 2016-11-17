@@ -23,6 +23,7 @@ Vendor responses:
 * [Checkpoint][ref-3]
 * [Fortinet][ref-4]
 * [Palo Alto][ref-5]
+
 This attack is 20+ years old, but it didn't had a logo.
 [ref-1]:http://www.blacknurse.dk/
 [ref-2]:http://www.blacknurse.dk/
